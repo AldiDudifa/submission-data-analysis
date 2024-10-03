@@ -17,7 +17,7 @@ def create_season_rider_df(df):
     return season_rider_df
 
 # Dataframe
-day_df = pd.read_csv("day_clean.csv")
+day_df = pd.read_csv("dashboard/day_clean.csv")
 
 #Date column should be datetime type
 date_column = ["date"]
