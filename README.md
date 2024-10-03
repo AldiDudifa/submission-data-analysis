@@ -17,5 +17,5 @@ streamlit run dashboard.py
 ## Kindly check my app
 
 ```
-here(https://submission-data-analysis-rr7y3xivbdhdvawj3cqzvt.streamlit.app/)
+[here](https://submission-data-analysis-rr7y3xivbdhdvawj3cqzvt.streamlit.app/)
 ```
